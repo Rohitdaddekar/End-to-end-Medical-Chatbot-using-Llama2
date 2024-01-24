@@ -1,5 +1,9 @@
 # End-to-end-Medical-Chatbot-using-Llama2
 
+## Below is the Sample Screenshot of Chatbot using Generative AI:
+
+   ![Alt text](image.png)
+
 # How to run?
 ### STEPS:
 
