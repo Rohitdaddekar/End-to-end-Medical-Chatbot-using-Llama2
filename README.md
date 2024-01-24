@@ -2,7 +2,7 @@
 
 ## Below is the Sample Screenshot of Chatbot using Generative AI:
 
-   ![Alt text](image.png)
+   ![Alt text]([image.png](https://github.com/Rohitdaddekar/End-to-end-Medical-Chatbot-using-Llama2/blob/main/Images/Chatbot_Sample.png))
 
 # How to run?
 ### STEPS:
